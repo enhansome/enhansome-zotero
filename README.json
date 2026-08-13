@@ -1,0 +1,858 @@
+{
+  "items": [
+    {
+      "description": "",
+      "items": [],
+      "title": "Extensions"
+    },
+    {
+      "description": "",
+      "items": [
+        {
+          "node_type": "item",
+          "title": "Jasminum",
+          "description": "- A Zotero add-on to retrieve CNKI meta.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "TypeScript",
+            "last_commit": "2026-06-03T16:44:23Z",
+            "owner": "l0o0",
+            "repo": "jasminum",
+            "stars": 7133
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Better BibTeX for Zotero",
+          "description": "- Make Zotero effective for us LaTeX holdouts.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "TypeScript",
+            "last_commit": "2026-08-12T21:34:34Z",
+            "owner": "retorquere",
+            "repo": "zotero-better-bibtex",
+            "stars": 7016
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Zotero DOI Manager",
+          "description": "- Zotero plugin to retrieve and manage DOIs for references.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "JavaScript",
+            "last_commit": "2024-08-10T23:20:54Z",
+            "owner": "bwiernik",
+            "repo": "zotero-shortdoi",
+            "stars": 1631
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Zotero-citation",
+          "description": "- Make Zotero's citation in Word easier and clearer.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "TypeScript",
+            "last_commit": "2026-06-10T07:24:23Z",
+            "owner": "MuiseDestiny",
+            "repo": "zotero-citation",
+            "stars": 1268
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Zotero-citationcounts",
+          "description": "- Zotero plugin for auto-fetching citation counts from various sources.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "JavaScript",
+            "last_commit": "2023-11-09T17:49:37Z",
+            "owner": "eschnett",
+            "repo": "zotero-citationcounts",
+            "stars": 931
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Scite-zotero-plugin",
+          "description": "- Add citations from Scite to Zotero.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "TypeScript",
+            "last_commit": "2026-02-02T14:04:19Z",
+            "owner": "scitedotai",
+            "repo": "scite-zotero-plugin",
+            "stars": 856
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "inciteful-zotero-plugin",
+          "description": "- A Zotero plugin which integrates Inciteful.xyz.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "TypeScript",
+            "last_commit": "2026-05-11T22:29:09Z",
+            "owner": "inciteful-xyz",
+            "repo": "inciteful-zotero-plugin",
+            "stars": 284
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Zotero-inspire",
+          "description": "- Fetch publication information from INSPIRE-HEP and add it to Zotero.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "TypeScript",
+            "last_commit": "2026-08-01T22:16:19Z",
+            "owner": "fkguo",
+            "repo": "zotero-inspire",
+            "stars": 234
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Zotero-pmcid-fetcher",
+          "description": "- Fetch PMCID/PMID for items with a DOI.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "TypeScript",
+            "last_commit": "2026-07-06T13:14:39Z",
+            "owner": "retorquere",
+            "repo": "zotero-pmcid-fetcher",
+            "stars": 141
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Zotero TL;DR",
+          "description": "- Zotero addon to automatically fetch TL;DR from Semantic Scholar for items.",
+          "children": [],
+          "repo_info": {
+            "archived": true,
+            "language": "TypeScript",
+            "last_commit": "2024-07-25T08:53:31Z",
+            "owner": "syt2",
+            "repo": "Zotero-TLDR",
+            "stars": 62
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "cite-non-english",
+          "description": "- Zotero extension to provide all-in-one support for non-English citations.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "TypeScript",
+            "last_commit": "2026-05-06T10:41:14Z",
+            "owner": "boan-anbo",
+            "repo": "cite-non-english",
+            "stars": 32
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Zotero Metadata Hunter",
+          "description": "- Finds missing DOIs and abstracts, replaces preprints with their published versions, and enriches sparse items with metadata from CrossRef, DBLP, Semantic Scholar, arXiv, PubMed, and OpenAlex.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "TypeScript",
+            "last_commit": "2026-06-22T08:57:25Z",
+            "owner": "federicotorrielli",
+            "repo": "zotero-metadata-hunter",
+            "stars": 28
+          }
+        }
+      ],
+      "title": "Citations"
+    },
+    {
+      "description": "",
+      "items": [
+        {
+          "node_type": "item",
+          "title": "zotero-style",
+          "description": "- Zotero plugin to provide ethereal Style.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "JavaScript",
+            "last_commit": "2026-06-07T16:06:59Z",
+            "owner": "MuiseDestiny",
+            "repo": "zotero-style",
+            "stars": 5185
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Zotero-reference",
+          "description": "- PDF references add-on for Zotero.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "JavaScript",
+            "last_commit": "2026-03-27T03:11:37Z",
+            "owner": "MuiseDestiny",
+            "repo": "zotero-reference",
+            "stars": 2798
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Zotero-actions-tags",
+          "description": "- Automatic tagging of items based on actions performed on them.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "TypeScript",
+            "last_commit": "2026-05-27T11:19:00Z",
+            "owner": "windingwind",
+            "repo": "zotero-actions-tags",
+            "stars": 2776
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Zutilo",
+          "description": "- Zotero plugin providing some additional editing features.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "JavaScript",
+            "last_commit": "2026-07-20T20:57:00Z",
+            "owner": "wshanks",
+            "repo": "Zutilo",
+            "stars": 1861
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Zotero-pdf-preview",
+          "description": "- Preview Zotero attachments in the library view.",
+          "children": [],
+          "repo_info": {
+            "archived": true,
+            "language": "TypeScript",
+            "last_commit": "2024-01-25T06:38:25Z",
+            "owner": "windingwind",
+            "repo": "zotero-pdf-preview",
+            "stars": 1253
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Zotero-format-metadata",
+          "description": "- Linter for Zotero to format item metadata.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "TypeScript",
+            "last_commit": "2026-08-05T07:44:12Z",
+            "owner": "northword",
+            "repo": "zotero-format-metadata",
+            "stars": 1021
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Delitemwithatt",
+          "description": "- Remove attachment(s) when deleting the item(s) or collection in Zotero and JurisM.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "TypeScript",
+            "last_commit": "2026-08-10T05:20:59Z",
+            "owner": "redleafnew",
+            "repo": "delitemwithatt",
+            "stars": 658
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Tara",
+          "description": "- Zotero add-on for backup and restore preferences, add-ons, translators, styles, and locate between two machines.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "TypeScript",
+            "last_commit": "2026-06-07T02:00:07Z",
+            "owner": "l0o0",
+            "repo": "tara",
+            "stars": 466
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Zotero-better-authors",
+          "description": "- Customize the display of author names in Zotero.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "TypeScript",
+            "last_commit": "2026-08-04T01:34:33Z",
+            "owner": "github-young",
+            "repo": "zotero-better-authors",
+            "stars": 158
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Zotero-date-from-last-modified",
+          "description": "- Shows when the item was last modified.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "TypeScript",
+            "last_commit": "2026-06-24T17:08:54Z",
+            "owner": "retorquere",
+            "repo": "zotero-date-from-last-modified",
+            "stars": 122
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Zotero-Focused-Mode",
+          "description": "- Distraction-free workspace for focused reading.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "JavaScript",
+            "last_commit": "2026-07-18T14:44:00Z",
+            "owner": "dschaehi",
+            "repo": "Zotero-Focused-Mode",
+            "stars": 76
+          }
+        }
+      ],
+      "title": "Customization"
+    },
+    {
+      "description": "",
+      "items": [
+        {
+          "node_type": "item",
+          "title": "Zotfile",
+          "description": "- Zotero plugin to automatically rename, move, and attach PDFs (or other files) to Zotero items.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Java",
+            "last_commit": "2024-04-16T14:14:46Z",
+            "owner": "jlegewie",
+            "repo": "zotfile",
+            "stars": 4361
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Zotmoov",
+          "description": "- Zotero plugin to automatically move attachments and link them.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "JavaScript",
+            "last_commit": "2026-08-01T17:13:03Z",
+            "owner": "wileyyugioh",
+            "repo": "zotmoov",
+            "stars": 1479
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Zotero-attanger",
+          "description": "- Attachment Manager for Zotero.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "TypeScript",
+            "last_commit": "2026-07-28T02:01:16Z",
+            "owner": "MuiseDestiny",
+            "repo": "zotero-attanger",
+            "stars": 1325
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Zoplicate",
+          "description": "- Detect and manage duplicate items in Zotero.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "TypeScript",
+            "last_commit": "2026-08-08T04:15:01Z",
+            "owner": "ChenglongMa",
+            "repo": "zoplicate",
+            "stars": 956
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Zotero-storage-scanner",
+          "description": "- Zotero plugin to remove the broken & duplicate attachment links of the bibliography.",
+          "children": [],
+          "repo_info": {
+            "archived": true,
+            "language": "TypeScript",
+            "last_commit": "2024-12-06T08:20:37Z",
+            "owner": "retorquere",
+            "repo": "zotero-storage-scanner",
+            "stars": 549
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Zotero-open-pdf",
+          "description": "- Open PDFs in external PDF viewer from Zotero.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "TypeScript",
+            "last_commit": "2026-06-24T17:05:44Z",
+            "owner": "retorquere",
+            "repo": "zotero-open-pdf",
+            "stars": 260
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Zotero Watch Folder",
+          "description": "- Zotero plugin to watch a folder and auto-import PDFs with metadata retrieval and content-hash deduplication, plus optional two-way collection-to-folder sync with recoverable safe-delete.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "JavaScript",
+            "last_commit": "2026-08-12T05:04:32Z",
+            "owner": "josesiqueira",
+            "repo": "zotero-watch-folder",
+            "stars": 36
+          }
+        }
+      ],
+      "title": "File Management"
+    },
+    {
+      "description": "",
+      "items": [
+        {
+          "node_type": "item",
+          "title": "notero",
+          "description": "- Zotero plugin for syncing items and notes into Notion.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "TypeScript",
+            "last_commit": "2026-08-11T00:19:16Z",
+            "owner": "dvanoni",
+            "repo": "notero",
+            "stars": 3199
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Obsidian-Zotlit",
+          "description": "- ZotLit is a third-party project that aims to facilitate the integration between Obsidian.md and Zotero.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "TypeScript",
+            "last_commit": "2026-08-13T00:42:26Z",
+            "owner": "aidenlx",
+            "repo": "zotlit",
+            "stars": 988
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "lyz",
+          "description": "- Zotero plugin intended to make working with LyX/Zotero more pleasant.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "JavaScript",
+            "last_commit": "2021-09-06T20:20:47Z",
+            "owner": "wshanks",
+            "repo": "lyz",
+            "stars": 117
+          }
+        }
+      ],
+      "title": "Integrations"
+    },
+    {
+      "description": "",
+      "items": [
+        {
+          "node_type": "item",
+          "title": "Zotero Addons",
+          "description": "- Zotero add-on to list and install add-ons in Zotero.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "TypeScript",
+            "last_commit": "2026-06-24T15:36:47Z",
+            "owner": "syt2",
+            "repo": "zotero-addons",
+            "stars": 1675
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "zotero-arxiv-workflow",
+          "description": "- Zotero plugin to help you manage adding and updating papers from arXiv.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "TypeScript",
+            "last_commit": "2026-08-08T12:29:38Z",
+            "owner": "AllanChain",
+            "repo": "zotero-arxiv-workflow",
+            "stars": 375
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "KeepZotero",
+          "description": "- Zotero plugin to keep Zotero in the taskbar by changing close to minimize or disabling shortcuts.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "JavaScript",
+            "last_commit": "2025-04-13T22:26:10Z",
+            "owner": "yhmtsai",
+            "repo": "KeepZotero",
+            "stars": 82
+          }
+        }
+      ],
+      "title": "Miscellaneous"
+    },
+    {
+      "description": "",
+      "items": [
+        {
+          "node_type": "item",
+          "title": "Zotero Better Notes",
+          "description": "- Everything about note management in Zotero.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "TypeScript",
+            "last_commit": "2026-08-02T19:34:28Z",
+            "owner": "windingwind",
+            "repo": "zotero-better-notes",
+            "stars": 8076
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Zotero mdnotes",
+          "description": "- Zotero plugin to export item metadata and notes as markdown files.",
+          "children": [],
+          "repo_info": {
+            "archived": true,
+            "language": "JavaScript",
+            "last_commit": "2024-10-18T11:27:14Z",
+            "owner": "argenos",
+            "repo": "zotero-mdnotes",
+            "stars": 1398
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Zotero-OCR",
+          "description": "- OCR PDFs in Zotero.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "JavaScript",
+            "last_commit": "2026-06-04T08:27:47Z",
+            "owner": "UB-Mannheim",
+            "repo": "zotero-ocr",
+            "stars": 809
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Zotero-markdb-connect",
+          "description": "- Zotero plugin that links your Markdown database to Zotero.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "TypeScript",
+            "last_commit": "2026-07-22T05:08:02Z",
+            "owner": "daeh",
+            "repo": "zotero-markdb-connect",
+            "stars": 672
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Zotcard",
+          "description": "- Card note-taking enhancement tool with card templates.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "JavaScript",
+            "last_commit": "2025-06-03T09:20:46Z",
+            "owner": "018",
+            "repo": "zotcard",
+            "stars": 642
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Zotero-reading-list",
+          "description": "- Keep track of whether you've read items in Zotero.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "TypeScript",
+            "last_commit": "2026-08-01T17:57:06Z",
+            "owner": "Dominic-DallOsto",
+            "repo": "zotero-reading-list",
+            "stars": 561
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Chartero",
+          "description": "- Zotero plugin to provide charts in Zotero.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Vue",
+            "last_commit": "2026-04-22T04:56:13Z",
+            "owner": "volatile-static",
+            "repo": "Chartero",
+            "stars": 513
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "zotxt",
+          "description": "- Zotero extension for supporting utilities that deal with plain text files.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "JavaScript",
+            "last_commit": "2026-08-11T16:29:43Z",
+            "owner": "egh",
+            "repo": "zotxt",
+            "stars": 379
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "zotcite",
+          "description": "- Neovim plugin for integration with Zotero.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Lua",
+            "last_commit": "2026-08-10T18:37:32Z",
+            "owner": "jalvesaq",
+            "repo": "zotcite",
+            "stars": 274
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "cmp-zotcite",
+          "description": "- Zotero completion source for nvim-cmp using zotcite as backend.",
+          "children": [],
+          "repo_info": {
+            "archived": true,
+            "language": "Lua",
+            "last_commit": "2025-10-23T14:26:50Z",
+            "owner": "jalvesaq",
+            "repo": "cmp-zotcite",
+            "stars": 25
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Zotero Docling",
+          "description": "- Convert PDF attachments to structured Markdown using the Docling document converter, with OCR and table extraction.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "TypeScript",
+            "last_commit": "2026-08-11T15:41:11Z",
+            "owner": "max3925vats",
+            "repo": "zotero-docling",
+            "stars": 10
+          }
+        }
+      ],
+      "title": "Productivity"
+    },
+    {
+      "description": "",
+      "items": [
+        {
+          "node_type": "item",
+          "title": "Awesome GPT",
+          "description": "- Zotero plugin to provide GPT backend into Zotero using API.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "TypeScript",
+            "last_commit": "2026-05-01T22:47:34Z",
+            "owner": "MuiseDestiny",
+            "repo": "zotero-gpt",
+            "stars": 7330
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "zotero-arxiv-daily",
+          "description": "- Recommend new arxiv papers of your interest daily according to your Zotero libarary. .",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Python",
+            "last_commit": "2026-08-03T09:22:53Z",
+            "owner": "TideDra",
+            "repo": "zotero-arxiv-daily",
+            "stars": 5812
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Zotero-MCP",
+          "description": "- Connects your Zotero research library with Claude and other AI assistants via the Model Context Protocol.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Python",
+            "last_commit": "2026-08-06T00:34:28Z",
+            "owner": "54yyyu",
+            "repo": "zotero-mcp",
+            "stars": 4635
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "PapersGPT",
+          "description": "- The Ultimate Zotero AI Plugin.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "JavaScript",
+            "last_commit": "2026-08-13T00:14:18Z",
+            "owner": "papersgpt",
+            "repo": "papersgpt-for-zotero",
+            "stars": 2587
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Aria",
+          "description": "- Aria is Your AI Research Assistant for zotero.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "JavaScript",
+            "last_commit": "2025-04-01T04:03:59Z",
+            "owner": "lifan0127",
+            "repo": "ai-research-assistant",
+            "stars": 1720
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Beaver",
+          "description": "- Academic research assistant with native Zotero integration. Instantly searches through all your documents and explains complex concepts as you read.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "TypeScript",
+            "last_commit": "2026-08-13T02:22:20Z",
+            "owner": "jlegewie",
+            "repo": "beaver-zotero",
+            "stars": 227
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "ZotSeek",
+          "description": "- Zotero plugin to find similar papers by meaning, not just keywords. 100% local, no data leaves your machine.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "TypeScript",
+            "last_commit": "2026-08-12T11:57:02Z",
+            "owner": "introfini",
+            "repo": "ZotSeek",
+            "stars": 184
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Nodus",
+          "description": "- Desktop research workspace that turns Zotero libraries into idea graphs, semantic search, gap analysis, and citation-grounded writing.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "TypeScript",
+            "last_commit": "2026-08-13T03:59:20Z",
+            "owner": "Drakonis96",
+            "repo": "nodus",
+            "stars": 75
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "seerai",
+          "description": "- Intelligent research assistant plugin for Zotero that integrates AI-powered chat, advanced search, and data extraction capabilities directly into your research workflow.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "TypeScript",
+            "last_commit": "2026-07-09T10:31:26Z",
+            "owner": "dralkh",
+            "repo": "seerai",
+            "stars": 75
+          }
+        }
+      ],
+      "title": "AI Integrations"
+    },
+    {
+      "description": "",
+      "items": [],
+      "title": "Themes"
+    },
+    {
+      "description": "",
+      "items": [],
+      "title": "Light Themes"
+    },
+    {
+      "description": "Please see CONTRIBUTING.md for details on how to contribute to this awesome list.",
+      "items": [],
+      "title": "Contributing"
+    }
+  ],
+  "metadata": {
+    "last_updated": "2026-08-13T04:05:18.062Z",
+    "original_repository": "MohamedElashri/awesome-zotero",
+    "original_repository_sha": "f257ac8c399e0acb5d2d2cc1e9b919984f3e93eb",
+    "enhanced_repository": "enhansome/enhansome-zotero",
+    "enhanced_repository_description": null,
+    "title": "Awesome Zotero with stars"
+  }
+}
