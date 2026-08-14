@@ -19,7 +19,7 @@
             "last_commit": "2026-06-03T16:44:23Z",
             "owner": "l0o0",
             "repo": "jasminum",
-            "stars": 7133
+            "stars": 7136
           }
         },
         {
@@ -33,7 +33,7 @@
             "last_commit": "2026-08-12T21:34:34Z",
             "owner": "retorquere",
             "repo": "zotero-better-bibtex",
-            "stars": 7016
+            "stars": 7017
           }
         },
         {
@@ -61,7 +61,7 @@
             "last_commit": "2026-06-10T07:24:23Z",
             "owner": "MuiseDestiny",
             "repo": "zotero-citation",
-            "stars": 1268
+            "stars": 1269
           }
         },
         {
@@ -89,7 +89,7 @@
             "last_commit": "2026-02-02T14:04:19Z",
             "owner": "scitedotai",
             "repo": "scite-zotero-plugin",
-            "stars": 856
+            "stars": 857
           }
         },
         {
@@ -193,7 +193,7 @@
             "last_commit": "2026-06-07T16:06:59Z",
             "owner": "MuiseDestiny",
             "repo": "zotero-style",
-            "stars": 5185
+            "stars": 5187
           }
         },
         {
@@ -221,7 +221,7 @@
             "last_commit": "2026-05-27T11:19:00Z",
             "owner": "windingwind",
             "repo": "zotero-actions-tags",
-            "stars": 2776
+            "stars": 2777
           }
         },
         {
@@ -235,7 +235,7 @@
             "last_commit": "2026-07-20T20:57:00Z",
             "owner": "wshanks",
             "repo": "Zutilo",
-            "stars": 1861
+            "stars": 1862
           }
         },
         {
@@ -263,7 +263,7 @@
             "last_commit": "2026-08-05T07:44:12Z",
             "owner": "northword",
             "repo": "zotero-format-metadata",
-            "stars": 1021
+            "stars": 1022
           }
         },
         {
@@ -353,7 +353,7 @@
             "last_commit": "2024-04-16T14:14:46Z",
             "owner": "jlegewie",
             "repo": "zotfile",
-            "stars": 4361
+            "stars": 4362
           }
         },
         {
@@ -367,7 +367,7 @@
             "last_commit": "2026-08-01T17:13:03Z",
             "owner": "wileyyugioh",
             "repo": "zotmoov",
-            "stars": 1479
+            "stars": 1480
           }
         },
         {
@@ -395,7 +395,7 @@
             "last_commit": "2026-08-08T04:15:01Z",
             "owner": "ChenglongMa",
             "repo": "zoplicate",
-            "stars": 956
+            "stars": 957
           }
         },
         {
@@ -434,7 +434,7 @@
           "repo_info": {
             "archived": false,
             "language": "JavaScript",
-            "last_commit": "2026-08-12T05:04:32Z",
+            "last_commit": "2026-08-14T05:03:57Z",
             "owner": "josesiqueira",
             "repo": "zotero-watch-folder",
             "stars": 36
@@ -457,7 +457,7 @@
             "last_commit": "2026-08-11T00:19:16Z",
             "owner": "dvanoni",
             "repo": "notero",
-            "stars": 3199
+            "stars": 3198
           }
         },
         {
@@ -468,10 +468,10 @@
           "repo_info": {
             "archived": false,
             "language": "TypeScript",
-            "last_commit": "2026-08-13T00:42:26Z",
+            "last_commit": "2026-08-14T01:42:12Z",
             "owner": "aidenlx",
             "repo": "zotlit",
-            "stars": 988
+            "stars": 987
           }
         },
         {
@@ -519,7 +519,7 @@
             "last_commit": "2026-08-08T12:29:38Z",
             "owner": "AllanChain",
             "repo": "zotero-arxiv-workflow",
-            "stars": 375
+            "stars": 376
           }
         },
         {
@@ -553,7 +553,7 @@
             "last_commit": "2026-08-02T19:34:28Z",
             "owner": "windingwind",
             "repo": "zotero-better-notes",
-            "stars": 8076
+            "stars": 8081
           }
         },
         {
@@ -595,7 +595,7 @@
             "last_commit": "2026-07-22T05:08:02Z",
             "owner": "daeh",
             "repo": "zotero-markdb-connect",
-            "stars": 672
+            "stars": 673
           }
         },
         {
@@ -623,7 +623,7 @@
             "last_commit": "2026-08-01T17:57:06Z",
             "owner": "Dominic-DallOsto",
             "repo": "zotero-reading-list",
-            "stars": 561
+            "stars": 562
           }
         },
         {
@@ -637,7 +637,7 @@
             "last_commit": "2026-04-22T04:56:13Z",
             "owner": "volatile-static",
             "repo": "Chartero",
-            "stars": 513
+            "stars": 514
           }
         },
         {
@@ -713,7 +713,7 @@
             "last_commit": "2026-05-01T22:47:34Z",
             "owner": "MuiseDestiny",
             "repo": "zotero-gpt",
-            "stars": 7330
+            "stars": 7331
           }
         },
         {
@@ -727,7 +727,7 @@
             "last_commit": "2026-08-03T09:22:53Z",
             "owner": "TideDra",
             "repo": "zotero-arxiv-daily",
-            "stars": 5812
+            "stars": 5816
           }
         },
         {
@@ -738,10 +738,10 @@
           "repo_info": {
             "archived": false,
             "language": "Python",
-            "last_commit": "2026-08-06T00:34:28Z",
+            "last_commit": "2026-08-13T11:42:18Z",
             "owner": "54yyyu",
             "repo": "zotero-mcp",
-            "stars": 4635
+            "stars": 4647
           }
         },
         {
@@ -755,7 +755,7 @@
             "last_commit": "2026-08-13T00:14:18Z",
             "owner": "papersgpt",
             "repo": "papersgpt-for-zotero",
-            "stars": 2587
+            "stars": 2592
           }
         },
         {
@@ -769,7 +769,7 @@
             "last_commit": "2025-04-01T04:03:59Z",
             "owner": "lifan0127",
             "repo": "ai-research-assistant",
-            "stars": 1720
+            "stars": 1721
           }
         },
         {
@@ -780,10 +780,10 @@
           "repo_info": {
             "archived": false,
             "language": "TypeScript",
-            "last_commit": "2026-08-13T02:22:20Z",
+            "last_commit": "2026-08-14T02:51:33Z",
             "owner": "jlegewie",
             "repo": "beaver-zotero",
-            "stars": 227
+            "stars": 229
           }
         },
         {
@@ -808,10 +808,10 @@
           "repo_info": {
             "archived": false,
             "language": "TypeScript",
-            "last_commit": "2026-08-13T03:59:20Z",
+            "last_commit": "2026-08-14T03:59:18Z",
             "owner": "Drakonis96",
             "repo": "nodus",
-            "stars": 75
+            "stars": 76
           }
         },
         {
@@ -825,7 +825,7 @@
             "last_commit": "2026-07-09T10:31:26Z",
             "owner": "dralkh",
             "repo": "seerai",
-            "stars": 75
+            "stars": 76
           }
         }
       ],
@@ -848,7 +848,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-13T04:05:18.062Z",
+    "last_updated": "2026-08-14T05:50:49.194Z",
     "original_repository": "MohamedElashri/awesome-zotero",
     "original_repository_sha": "f257ac8c399e0acb5d2d2cc1e9b919984f3e93eb",
     "enhanced_repository": "enhansome/enhansome-zotero",
