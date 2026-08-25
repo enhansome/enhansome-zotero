@@ -17,7 +17,7 @@
                 "last_commit": "2026-06-03T16:44:23Z",
                 "owner": "l0o0",
                 "repo": "jasminum",
-                "stars": 7160
+                "stars": 7159
               }
             },
             {
@@ -910,7 +910,7 @@
                 "archived": false,
                 "id": 1269112987,
                 "language": "TypeScript",
-                "last_commit": "2026-08-25T03:33:42Z",
+                "last_commit": "2026-08-25T05:38:22Z",
                 "owner": "Drakonis96",
                 "repo": "nodus",
                 "stars": 99
@@ -941,7 +941,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-25T04:59:51.365Z",
+    "last_updated": "2026-08-25T06:16:45.870Z",
     "original_repository": "MohamedElashri/awesome-zotero",
     "original_repository_id": 724657964,
     "original_repository_sha": "1a8d4b24762bf32eda7536b05b43e14f6d255a71",
