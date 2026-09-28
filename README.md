@@ -27,7 +27,7 @@ Your help is much appreciated. If you want to add something or fix a problem, lo
 
 ### Citations
 
-* [Jasminum](https://github.com/l0o0/jasminum) ⭐ 7,256 | 🐛 45 | 🌐 TypeScript | 📅 2026-09-02 - - A Zotero add-on to retrieve CNKI meta.
+* [Jasminum](https://github.com/l0o0/jasminum) ⭐ 7,259 | 🐛 45 | 🌐 TypeScript | 📅 2026-09-02 - - A Zotero add-on to retrieve CNKI meta.
 
   ![Last Commit](https://img.shields.io/github/last-commit/l0o0/jasminum)
   ![License](https://img.shields.io/github/license/l0o0/jasminum)
@@ -35,7 +35,7 @@ Your help is much appreciated. If you want to add something or fix a problem, lo
   ![Stars](https://img.shields.io/github/stars/l0o0/jasminum)
   ![Forks](https://img.shields.io/github/forks/l0o0/jasminum)
 
-* [Better BibTeX for Zotero](https://github.com/retorquere/zotero-better-bibtex) ⭐ 7,160 | 🐛 49 | 🌐 TypeScript | 📅 2026-09-26 - - Make Zotero effective for us LaTeX holdouts.
+* [Better BibTeX for Zotero](https://github.com/retorquere/zotero-better-bibtex) ⭐ 7,164 | 🐛 48 | 🌐 TypeScript | 📅 2026-09-28 - - Make Zotero effective for us LaTeX holdouts.
 
   ![Last Commit](https://img.shields.io/github/last-commit/retorquere/zotero-better-bibtex)
   ![License](https://img.shields.io/github/license/retorquere/zotero-better-bibtex)
@@ -51,7 +51,7 @@ Your help is much appreciated. If you want to add something or fix a problem, lo
   ![Stars](https://img.shields.io/github/stars/bwiernik/zotero-shortdoi)
   ![Forks](https://img.shields.io/github/forks/bwiernik/zotero-shortdoi)
 
-* [Zotero-citation](https://github.com/MuiseDestiny/zotero-citation) ⭐ 1,283 | 🐛 82 | 🌐 TypeScript | 📅 2026-08-24 - - Make Zotero's citation in Word easier and clearer.
+* [Zotero-citation](https://github.com/MuiseDestiny/zotero-citation) ⭐ 1,284 | 🐛 82 | 🌐 TypeScript | 📅 2026-08-24 - - Make Zotero's citation in Word easier and clearer.
 
   ![Last Commit](https://img.shields.io/github/last-commit/MuiseDestiny/zotero-citation)
   ![License](https://img.shields.io/github/license/MuiseDestiny/zotero-citation)
@@ -133,7 +133,7 @@ Your help is much appreciated. If you want to add something or fix a problem, lo
   ![Stars](https://img.shields.io/github/stars/MuiseDestiny/zotero-style)
   ![Forks](https://img.shields.io/github/forks/MuiseDestiny/zotero-style)
 
-* [Zotero-actions-tags](https://github.com/windingwind/zotero-actions-tags) ⭐ 2,835 | 🐛 0 | 🌐 TypeScript | 📅 2026-08-24 - - Automatic tagging of items based on actions performed on them.
+* [Zotero-actions-tags](https://github.com/windingwind/zotero-actions-tags) ⭐ 2,836 | 🐛 0 | 🌐 TypeScript | 📅 2026-08-24 - - Automatic tagging of items based on actions performed on them.
 
   ![Last Commit](https://img.shields.io/github/last-commit/windingwind/zotero-actions-tags)
   ![License](https://img.shields.io/github/license/windingwind/zotero-actions-tags)
@@ -181,7 +181,7 @@ Your help is much appreciated. If you want to add something or fix a problem, lo
   ![Stars](https://img.shields.io/github/stars/redleafnew/delitemwithatt)
   ![Forks](https://img.shields.io/github/forks/redleafnew/delitemwithatt)
 
-* [Tara](https://github.com/l0o0/tara) ⭐ 473 | 🐛 6 | 🌐 TypeScript | 📅 2026-06-07 - - Zotero add-on for backup and restore preferences, add-ons, translators, styles, and locate between two machines.
+* [Tara](https://github.com/l0o0/tara) ⭐ 474 | 🐛 6 | 🌐 TypeScript | 📅 2026-06-07 - - Zotero add-on for backup and restore preferences, add-ons, translators, styles, and locate between two machines.
 
   ![Last Commit](https://img.shields.io/github/last-commit/l0o0/tara)
   ![License](https://img.shields.io/github/license/l0o0/tara)
@@ -229,7 +229,7 @@ Your help is much appreciated. If you want to add something or fix a problem, lo
 
 ### File Management
 
-* [Zotfile](https://github.com/jlegewie/zotfile) ⭐ 4,376 | 🐛 300 | 🌐 Java | 📅 2024-04-16 - - Zotero plugin to automatically rename, move, and attach PDFs (or other files) to Zotero items.
+* [Zotfile](https://github.com/jlegewie/zotfile) ⭐ 4,377 | 🐛 300 | 🌐 Java | 📅 2024-04-16 - - Zotero plugin to automatically rename, move, and attach PDFs (or other files) to Zotero items.
 
   ![Last Commit](https://img.shields.io/github/last-commit/jlegewie/zotfile)
   ![License](https://img.shields.io/github/license/jlegewie/zotfile)
@@ -237,7 +237,7 @@ Your help is much appreciated. If you want to add something or fix a problem, lo
   ![Stars](https://img.shields.io/github/stars/jlegewie/zotfile)
   ![Forks](https://img.shields.io/github/forks/jlegewie/zotfile)
 
-* [Zotmoov](https://github.com/wileyyugioh/zotmoov) ⭐ 1,529 | 🐛 41 | 🌐 JavaScript | 📅 2026-09-22 - - Zotero plugin to automatically move attachments and link them.
+* [Zotmoov](https://github.com/wileyyugioh/zotmoov) ⭐ 1,531 | 🐛 41 | 🌐 JavaScript | 📅 2026-09-22 - - Zotero plugin to automatically move attachments and link them.
 
   ![Last Commit](https://img.shields.io/github/last-commit/wileyyugioh/zotmoov)
   ![License](https://img.shields.io/github/license/wileyyugioh/zotmoov)
@@ -245,7 +245,7 @@ Your help is much appreciated. If you want to add something or fix a problem, lo
   ![Stars](https://img.shields.io/github/stars/wileyyugioh/zotmoov)
   ![Forks](https://img.shields.io/github/forks/wileyyugioh/zotmoov)
 
-* [Zotero-attanger](https://github.com/MuiseDestiny/zotero-attanger) ⭐ 1,364 | 🐛 160 | 🌐 TypeScript | 📅 2026-08-23 - - Attachment Manager for Zotero.
+* [Zotero-attanger](https://github.com/MuiseDestiny/zotero-attanger) ⭐ 1,366 | 🐛 160 | 🌐 TypeScript | 📅 2026-08-23 - - Attachment Manager for Zotero.
 
   ![Last Commit](https://img.shields.io/github/last-commit/MuiseDestiny/zotero-attanger)
   ![License](https://img.shields.io/github/license/MuiseDestiny/zotero-attanger)
@@ -277,7 +277,7 @@ Your help is much appreciated. If you want to add something or fix a problem, lo
   ![Stars](https://img.shields.io/github/stars/retorquere/zotero-open-pdf)
   ![Forks](https://img.shields.io/github/forks/retorquere/zotero-open-pdf)
 
-* [Zotero Watch Folder](https://github.com/josesiqueira/zotero-watch-folder) ⭐ 49 | 🐛 9 | 🌐 JavaScript | 📅 2026-09-27 - - Zotero plugin to watch a folder and auto-import PDFs with metadata retrieval and content-hash deduplication, plus optional two-way collection-to-folder sync with recoverable safe-delete.
+* [Zotero Watch Folder](https://github.com/josesiqueira/zotero-watch-folder) ⭐ 49 | 🐛 9 | 🌐 JavaScript | 📅 2026-09-28 - - Zotero plugin to watch a folder and auto-import PDFs with metadata retrieval and content-hash deduplication, plus optional two-way collection-to-folder sync with recoverable safe-delete.
 
   ![Last Commit](https://img.shields.io/github/last-commit/josesiqueira/zotero-watch-folder)
   ![License](https://img.shields.io/github/license/josesiqueira/zotero-watch-folder)
@@ -287,7 +287,7 @@ Your help is much appreciated. If you want to add something or fix a problem, lo
 
 ### Integrations
 
-* [notero](https://github.com/dvanoni/notero) ⭐ 3,231 | 🐛 72 | 🌐 TypeScript | 📅 2026-08-20 - - Zotero plugin for syncing items and notes into Notion.
+* [notero](https://github.com/dvanoni/notero) ⭐ 3,232 | 🐛 72 | 🌐 TypeScript | 📅 2026-08-20 - - Zotero plugin for syncing items and notes into Notion.
 
   ![Last Commit](https://img.shields.io/github/last-commit/dvanoni/notero)
   ![License](https://img.shields.io/github/license/dvanoni/notero)
@@ -313,7 +313,7 @@ Your help is much appreciated. If you want to add something or fix a problem, lo
 
 ### Miscellaneous
 
-* [Zotero Addons](https://github.com/syt2/zotero-addons) ⭐ 1,751 | 🐛 9 | 🌐 TypeScript | 📅 2026-09-08 - - Zotero add-on to list and install add-ons in Zotero.
+* [Zotero Addons](https://github.com/syt2/zotero-addons) ⭐ 1,753 | 🐛 9 | 🌐 TypeScript | 📅 2026-09-08 - - Zotero add-on to list and install add-ons in Zotero.
 
   ![Last Commit](https://img.shields.io/github/last-commit/syt2/zotero-addons)
   ![License](https://img.shields.io/github/license/syt2/zotero-addons)
@@ -321,7 +321,7 @@ Your help is much appreciated. If you want to add something or fix a problem, lo
   ![Stars](https://img.shields.io/github/stars/syt2/zotero-addons)
   ![Forks](https://img.shields.io/github/forks/syt2/zotero-addons)
 
-* [zotero-arxiv-workflow](https://github.com/AllanChain/zotero-arxiv-workflow) ⭐ 388 | 🐛 6 | 🌐 TypeScript | 📅 2026-09-01 - - Zotero plugin to help you manage adding and updating papers from arXiv.
+* [zotero-arxiv-workflow](https://github.com/AllanChain/zotero-arxiv-workflow) ⭐ 389 | 🐛 5 | 🌐 TypeScript | 📅 2026-09-01 - - Zotero plugin to help you manage adding and updating papers from arXiv.
 
   ![Last Commit](https://img.shields.io/github/last-commit/AllanChain/zotero-arxiv-workflow)
   ![License](https://img.shields.io/github/license/AllanChain/zotero-arxiv-workflow)
@@ -339,7 +339,7 @@ Your help is much appreciated. If you want to add something or fix a problem, lo
 
 ### Productivity
 
-* [Zotero Better Notes](https://github.com/windingwind/zotero-better-notes) ⭐ 8,260 | 🐛 12 | 🌐 TypeScript | 📅 2026-08-24 - - Everything about note management in Zotero.
+* [Zotero Better Notes](https://github.com/windingwind/zotero-better-notes) ⭐ 8,265 | 🐛 12 | 🌐 TypeScript | 📅 2026-08-24 - - Everything about note management in Zotero.
 
   ![Last Commit](https://img.shields.io/github/last-commit/windingwind/zotero-better-notes)
   ![License](https://img.shields.io/github/license/windingwind/zotero-better-notes)
@@ -355,7 +355,7 @@ Your help is much appreciated. If you want to add something or fix a problem, lo
   ![Stars](https://img.shields.io/github/stars/argenos/zotero-mdnotes)
   ![Forks](https://img.shields.io/github/forks/argenos/zotero-mdnotes)
 
-* [Zotero-OCR](https://github.com/UB-Mannheim/zotero-ocr) ⭐ 828 | 🐛 10 | 🌐 JavaScript | 📅 2026-09-09 - - OCR PDFs in Zotero.
+* [Zotero-OCR](https://github.com/UB-Mannheim/zotero-ocr) ⭐ 829 | 🐛 10 | 🌐 JavaScript | 📅 2026-09-09 - - OCR PDFs in Zotero.
 
   ![Last Commit](https://img.shields.io/github/last-commit/UB-Mannheim/zotero-ocr)
   ![License](https://img.shields.io/github/license/UB-Mannheim/zotero-ocr)
@@ -429,7 +429,7 @@ Your help is much appreciated. If you want to add something or fix a problem, lo
 
 ### Translations
 
-* [Zotero PDF translate](https://github.com/windingwind/zotero-pdf-translate) ⭐ 11,927 | 🐛 19 | 🌐 TypeScript | 📅 2026-09-21 - - Translate PDF, EPub, webpage, metadata, annotations, notes to the target language.
+* [Zotero PDF translate](https://github.com/windingwind/zotero-pdf-translate) ⭐ 11,937 | 🐛 18 | 🌐 TypeScript | 📅 2026-09-21 - - Translate PDF, EPub, webpage, metadata, annotations, notes to the target language.
 
   ![Last Commit](https://img.shields.io/github/last-commit/windingwind/zotero-pdf-translate)
   ![License](https://img.shields.io/github/license/windingwind/zotero-pdf-translate)
@@ -443,7 +443,7 @@ Your help is much appreciated. If you want to add something or fix a problem, lo
 
 ### AI Integrations
 
-* [Awesome GPT](https://github.com/MuiseDestiny/zotero-gpt) ⭐ 7,439 | 🐛 247 | 🌐 TypeScript | 📅 2026-05-01 - - Zotero plugin to provide GPT backend into Zotero using API.
+* [Awesome GPT](https://github.com/MuiseDestiny/zotero-gpt) ⭐ 7,444 | 🐛 247 | 🌐 TypeScript | 📅 2026-05-01 - - Zotero plugin to provide GPT backend into Zotero using API.
 
   ![Last Commit](https://img.shields.io/github/last-commit/MuiseDestiny/zotero-gpt)
   ![License](https://img.shields.io/github/license/MuiseDestiny/zotero-gpt)
@@ -451,7 +451,7 @@ Your help is much appreciated. If you want to add something or fix a problem, lo
   ![Stars](https://img.shields.io/github/stars/MuiseDestiny/zotero-gpt)
   ![Forks](https://img.shields.io/github/forks/MuiseDestiny/zotero-gpt)
 
-* [zotero-arxiv-daily](https://github.com/TideDra/zotero-arxiv-daily) ⭐ 5,995 | 🐛 64 | 🌐 Python | 📅 2026-09-01 - - Recommend new arxiv papers of your interest daily according to your Zotero libarary. .
+* [zotero-arxiv-daily](https://github.com/TideDra/zotero-arxiv-daily) ⭐ 5,996 | 🐛 63 | 🌐 Python | 📅 2026-09-28 - - Recommend new arxiv papers of your interest daily according to your Zotero libarary. .
 
   ![Last Commit](https://img.shields.io/github/last-commit/TideDra/zotero-arxiv-daily)
   ![License](https://img.shields.io/github/license/TideDra/zotero-arxiv-daily)
@@ -459,7 +459,7 @@ Your help is much appreciated. If you want to add something or fix a problem, lo
   ![Stars](https://img.shields.io/github/stars/TideDra/zotero-arxiv-daily)
   ![Forks](https://img.shields.io/github/forks/TideDra/zotero-arxiv-daily)
 
-* [Zotero-MCP](https://github.com/54yyyu/zotero-mcp) ⭐ 5,174 | 🐛 63 | 🌐 Python | 📅 2026-09-24 - - Connects your Zotero research library with Claude and other AI assistants via the Model Context Protocol.
+* [Zotero-MCP](https://github.com/54yyyu/zotero-mcp) ⭐ 5,185 | 🐛 65 | 🌐 Python | 📅 2026-09-24 - - Connects your Zotero research library with Claude and other AI assistants via the Model Context Protocol.
 
   ![Last Commit](https://img.shields.io/github/last-commit/54yyyu/zotero-mcp)
   ![License](https://img.shields.io/github/license/54yyyu/zotero-mcp)
@@ -467,7 +467,7 @@ Your help is much appreciated. If you want to add something or fix a problem, lo
   ![Stars](https://img.shields.io/github/stars/54yyyu/zotero-mcp)
   ![Forks](https://img.shields.io/github/forks/54yyyu/zotero-mcp)
 
-* [PapersGPT](https://github.com/papersgpt/papersgpt-for-zotero) ⭐ 2,657 | 🐛 75 | 🌐 JavaScript | 📅 2026-09-24 - - The Ultimate Zotero AI Plugin.
+* [PapersGPT](https://github.com/papersgpt/papersgpt-for-zotero) ⭐ 2,659 | 🐛 75 | 🌐 JavaScript | 📅 2026-09-24 - - The Ultimate Zotero AI Plugin.
 
   ![Last Commit](https://img.shields.io/github/last-commit/papersgpt/papersgpt-for-zotero)
   ![License](https://img.shields.io/github/license/papersgpt/papersgpt-for-zotero)
@@ -483,7 +483,7 @@ Your help is much appreciated. If you want to add something or fix a problem, lo
   ![Stars](https://img.shields.io/github/stars/lifan0127/ai-research-assistant)
   ![Forks](https://img.shields.io/github/forks/lifan0127/ai-research-assistant)
 
-* [Nodus](https://github.com/Drakonis96/nodus) ⭐ 264 | 🐛 1 | 🌐 TypeScript | 📅 2026-09-27 - - Desktop research workspace that turns Zotero libraries into idea graphs, semantic search, gap analysis, and citation-grounded writing.
+* [Nodus](https://github.com/Drakonis96/nodus) ⭐ 267 | 🐛 2 | 🌐 TypeScript | 📅 2026-09-28 - - Desktop research workspace that turns Zotero libraries into idea graphs, semantic search, gap analysis, and citation-grounded writing.
 
   ![Last Commit](https://img.shields.io/github/last-commit/Drakonis96/nodus)
   ![License](https://img.shields.io/github/license/Drakonis96/nodus)
@@ -491,7 +491,7 @@ Your help is much appreciated. If you want to add something or fix a problem, lo
   ![Stars](https://img.shields.io/github/stars/Drakonis96/nodus)
   ![Forks](https://img.shields.io/github/forks/Drakonis96/nodus)
 
-* [Beaver](https://github.com/jlegewie/beaver-zotero/) ⭐ 258 | 🐛 39 | 🌐 TypeScript | 📅 2026-09-27 - - Academic research assistant with native Zotero integration. Instantly searches through all your documents and explains complex concepts as you read.
+* [Beaver](https://github.com/jlegewie/beaver-zotero/) ⭐ 259 | 🐛 40 | 🌐 TypeScript | 📅 2026-09-28 - - Academic research assistant with native Zotero integration. Instantly searches through all your documents and explains complex concepts as you read.
 
   ![Last Commit](https://img.shields.io/github/last-commit/jlegewie/beaver-zotero)
   ![License](https://img.shields.io/github/license/jlegewie/beaver-zotero)
@@ -499,7 +499,7 @@ Your help is much appreciated. If you want to add something or fix a problem, lo
   ![Stars](https://img.shields.io/github/stars/jlegewie/beaver-zotero)
   ![Forks](https://img.shields.io/github/forks/jlegewie/beaver-zotero)
 
-* [ZotSeek](https://github.com/introfini/ZotSeek) ⭐ 215 | 🐛 4 | 🌐 TypeScript | 📅 2026-09-24 - - Zotero plugin to find similar papers by meaning, not just keywords. 100% local, no data leaves your machine.
+* [ZotSeek](https://github.com/introfini/ZotSeek) ⭐ 215 | 🐛 5 | 🌐 TypeScript | 📅 2026-09-24 - - Zotero plugin to find similar papers by meaning, not just keywords. 100% local, no data leaves your machine.
 
   ![Last Commit](https://img.shields.io/github/last-commit/introfini/ZotSeek)
   ![License](https://img.shields.io/github/license/introfini/ZotSeek)
@@ -507,7 +507,7 @@ Your help is much appreciated. If you want to add something or fix a problem, lo
   ![Stars](https://img.shields.io/github/stars/introfini/ZotSeek)
   ![Forks](https://img.shields.io/github/forks/introfini/ZotSeek)
 
-* [seerai](https://github.com/dralkh/seerai) ⭐ 82 | 🐛 0 | 🌐 TypeScript | 📅 2026-09-23 - - Intelligent research assistant plugin for Zotero that integrates AI-powered chat, advanced search, and data extraction capabilities directly into your research workflow.
+* [seerai](https://github.com/dralkh/seerai) ⭐ 83 | 🐛 0 | 🌐 TypeScript | 📅 2026-09-23 - - Intelligent research assistant plugin for Zotero that integrates AI-powered chat, advanced search, and data extraction capabilities directly into your research workflow.
 
   ![Last Commit](https://img.shields.io/github/last-commit/dralkh/seerai)
   ![License](https://img.shields.io/github/license/dralkh/seerai)
@@ -535,4 +535,4 @@ Please see [CONTRIBUTING.md](CONTRIBUTING.md) for details on how to contribute t
 
 ***
 
-> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-09-27._
+> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-09-28._
