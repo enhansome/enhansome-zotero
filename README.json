@@ -21,7 +21,7 @@
                 "open_issues": 46,
                 "owner": "l0o0",
                 "repo": "jasminum",
-                "stars": 7268,
+                "stars": 7269,
                 "topics": [
                   "cnki",
                   "plugin",
@@ -47,7 +47,7 @@
                 "open_issues": 46,
                 "owner": "retorquere",
                 "repo": "zotero-better-bibtex",
-                "stars": 7184,
+                "stars": 7185,
                 "topics": [
                   "bib",
                   "biblatex",
@@ -288,7 +288,7 @@
                 "open_issues": 8,
                 "owner": "boan-anbo",
                 "repo": "cite-non-english",
-                "stars": 35,
+                "stars": 36,
                 "topics": []
               },
               "first_seen": "2026-08-28T16:44:29.486Z"
@@ -316,7 +316,7 @@
                 "open_issues": 797,
                 "owner": "MuiseDestiny",
                 "repo": "zotero-style",
-                "stars": 5285,
+                "stars": 5284,
                 "topics": [
                   "addon",
                   "color",
@@ -346,7 +346,7 @@
                 "open_issues": 1,
                 "owner": "windingwind",
                 "repo": "zotero-actions-tags",
-                "stars": 2838,
+                "stars": 2837,
                 "topics": [
                   "actions",
                   "addon",
@@ -375,7 +375,7 @@
                 "open_issues": 211,
                 "owner": "MuiseDestiny",
                 "repo": "zotero-reference",
-                "stars": 2821,
+                "stars": 2822,
                 "topics": [
                   "addon",
                   "pdf",
@@ -503,7 +503,7 @@
                 "open_issues": 6,
                 "owner": "l0o0",
                 "repo": "tara",
-                "stars": 474,
+                "stars": 475,
                 "topics": [
                   "zotero",
                   "zotero-plugin"
@@ -523,8 +523,8 @@
                 "id": 693086908,
                 "language": "TypeScript",
                 "license": "AGPL-3.0",
-                "last_commit": "2026-09-28T13:33:48Z",
-                "open_issues": 4,
+                "last_commit": "2026-10-03T08:28:47Z",
+                "open_issues": 3,
                 "owner": "github-young",
                 "repo": "zotero-better-authors",
                 "stars": 164,
@@ -573,7 +573,7 @@
                 "open_issues": 3,
                 "owner": "dschaehi",
                 "repo": "Zotero-Focused-Mode",
-                "stars": 87,
+                "stars": 88,
                 "topics": [
                   "distraction-free",
                   "focus",
@@ -782,7 +782,7 @@
                 "id": 1150773648,
                 "language": "JavaScript",
                 "license": "GPL-3.0",
-                "last_commit": "2026-10-02T09:49:32Z",
+                "last_commit": "2026-10-03T09:12:21Z",
                 "open_issues": 9,
                 "owner": "josesiqueira",
                 "repo": "zotero-watch-folder",
@@ -962,7 +962,7 @@
                 "open_issues": 2,
                 "owner": "yhmtsai",
                 "repo": "KeepZotero",
-                "stars": 82,
+                "stars": 83,
                 "topics": [
                   "plugin",
                   "zotero",
@@ -1387,7 +1387,7 @@
                 "language": "Python",
                 "license": "MIT",
                 "last_commit": "2026-09-30T02:13:29Z",
-                "open_issues": 71,
+                "open_issues": 72,
                 "owner": "54yyyu",
                 "repo": "zotero-mcp",
                 "stars": 5224,
@@ -1481,11 +1481,11 @@
                 "id": 1269112987,
                 "language": "TypeScript",
                 "license": "AGPL-3.0",
-                "last_commit": "2026-10-02T22:34:56Z",
-                "open_issues": 0,
+                "last_commit": "2026-10-03T08:10:32Z",
+                "open_issues": 2,
                 "owner": "Drakonis96",
                 "repo": "nodus",
-                "stars": 271,
+                "stars": 270,
                 "topics": [
                   "academic-research",
                   "academic-tools",
@@ -1626,7 +1626,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-10-03T05:16:42.760Z",
+    "last_updated": "2026-10-03T09:56:27.032Z",
     "original_repository_info": {
       "archived": false,
       "description": "A curated list of awesome Zotero resources",
