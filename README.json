@@ -21,7 +21,7 @@
                 "open_issues": 43,
                 "owner": "l0o0",
                 "repo": "jasminum",
-                "stars": 7292,
+                "stars": 7296,
                 "topics": [
                   "cnki",
                   "plugin",
@@ -47,7 +47,7 @@
                 "open_issues": 44,
                 "owner": "retorquere",
                 "repo": "zotero-better-bibtex",
-                "stars": 7201,
+                "stars": 7207,
                 "topics": [
                   "bib",
                   "biblatex",
@@ -316,7 +316,7 @@
                 "open_issues": 798,
                 "owner": "MuiseDestiny",
                 "repo": "zotero-style",
-                "stars": 5293,
+                "stars": 5297,
                 "topics": [
                   "addon",
                   "color",
@@ -401,7 +401,7 @@
                 "open_issues": 92,
                 "owner": "wshanks",
                 "repo": "Zutilo",
-                "stars": 1884,
+                "stars": 1883,
                 "topics": []
               },
               "first_seen": "2026-08-28T16:44:29.486Z"
@@ -523,8 +523,8 @@
                 "id": 693086908,
                 "language": "TypeScript",
                 "license": "AGPL-3.0",
-                "last_commit": "2026-10-05T13:33:17Z",
-                "open_issues": 4,
+                "last_commit": "2026-10-12T04:52:52Z",
+                "open_issues": 3,
                 "owner": "github-young",
                 "repo": "zotero-better-authors",
                 "stars": 164,
@@ -573,7 +573,7 @@
                 "open_issues": 2,
                 "owner": "dschaehi",
                 "repo": "Zotero-Focused-Mode",
-                "stars": 89,
+                "stars": 90,
                 "topics": [
                   "distraction-free",
                   "focus",
@@ -649,7 +649,7 @@
                 "open_issues": 300,
                 "owner": "jlegewie",
                 "repo": "zotfile",
-                "stars": 4377,
+                "stars": 4378,
                 "topics": []
               },
               "first_seen": "2026-08-28T16:44:29.486Z"
@@ -670,7 +670,7 @@
                 "open_issues": 41,
                 "owner": "wileyyugioh",
                 "repo": "zotmoov",
-                "stars": 1548,
+                "stars": 1549,
                 "topics": [
                   "zotero",
                   "zotero-plugin"
@@ -694,7 +694,7 @@
                 "open_issues": 162,
                 "owner": "MuiseDestiny",
                 "repo": "zotero-attanger",
-                "stars": 1375,
+                "stars": 1376,
                 "topics": []
               },
               "first_seen": "2026-08-28T16:44:29.486Z"
@@ -712,7 +712,7 @@
                 "language": "TypeScript",
                 "license": "AGPL-3.0",
                 "last_commit": "2026-09-30T00:36:04Z",
-                "open_issues": 53,
+                "open_issues": 54,
                 "owner": "ChenglongMa",
                 "repo": "zoplicate",
                 "stars": 1007,
@@ -782,7 +782,7 @@
                 "id": 1150773648,
                 "language": "JavaScript",
                 "license": "GPL-3.0",
-                "last_commit": "2026-10-11T10:03:32Z",
+                "last_commit": "2026-10-12T10:55:25Z",
                 "open_issues": 9,
                 "owner": "josesiqueira",
                 "repo": "zotero-watch-folder",
@@ -828,7 +828,7 @@
                 "open_issues": 73,
                 "owner": "dvanoni",
                 "repo": "notero",
-                "stars": 3236,
+                "stars": 3237,
                 "topics": [
                   "notion",
                   "notion-database",
@@ -852,8 +852,8 @@
                 "id": 455983032,
                 "language": "TypeScript",
                 "license": "AGPL-3.0",
-                "last_commit": "2026-10-11T10:46:13Z",
-                "open_issues": 23,
+                "last_commit": "2026-10-11T15:19:11Z",
+                "open_issues": 13,
                 "owner": "aidenlx",
                 "repo": "zotlit",
                 "stars": 1029,
@@ -911,7 +911,7 @@
                 "open_issues": 9,
                 "owner": "syt2",
                 "repo": "zotero-addons",
-                "stars": 1782,
+                "stars": 1788,
                 "topics": [
                   "zotero",
                   "zotero-addon",
@@ -995,7 +995,7 @@
                 "open_issues": 15,
                 "owner": "windingwind",
                 "repo": "zotero-better-notes",
-                "stars": 8311,
+                "stars": 8315,
                 "topics": [
                   "addon",
                   "knowledge",
@@ -1111,7 +1111,7 @@
                 "id": 310053923,
                 "language": "JavaScript",
                 "license": "MIT",
-                "last_commit": "2025-06-03T09:20:46Z",
+                "last_commit": "2026-10-12T11:28:18Z",
                 "open_issues": 55,
                 "owner": "018",
                 "repo": "zotcard",
@@ -1132,8 +1132,8 @@
                 "id": 443645651,
                 "language": "TypeScript",
                 "license": "GPL-3.0",
-                "last_commit": "2026-09-16T07:31:03Z",
-                "open_issues": 15,
+                "last_commit": "2026-10-11T17:21:22Z",
+                "open_issues": 13,
                 "owner": "Dominic-DallOsto",
                 "repo": "zotero-reading-list",
                 "stars": 581,
@@ -1296,10 +1296,10 @@
                 "language": "TypeScript",
                 "license": "AGPL-3.0",
                 "last_commit": "2026-10-03T11:50:09Z",
-                "open_issues": 19,
+                "open_issues": 20,
                 "owner": "windingwind",
                 "repo": "zotero-pdf-translate",
-                "stars": 12022,
+                "stars": 12028,
                 "topics": [
                   "pdf",
                   "plugin",
@@ -1335,7 +1335,7 @@
                 "open_issues": 247,
                 "owner": "MuiseDestiny",
                 "repo": "zotero-gpt",
-                "stars": 7468,
+                "stars": 7471,
                 "topics": [
                   "gpt",
                   "zotero",
@@ -1360,7 +1360,7 @@
                 "open_issues": 61,
                 "owner": "TideDra",
                 "repo": "zotero-arxiv-daily",
-                "stars": 6029,
+                "stars": 6032,
                 "topics": [
                   "arxiv",
                   "automation",
@@ -1390,7 +1390,7 @@
                 "open_issues": 64,
                 "owner": "54yyyu",
                 "repo": "zotero-mcp",
-                "stars": 5320,
+                "stars": 5337,
                 "topics": [
                   "ai-agent",
                   "chatgpt",
@@ -1423,7 +1423,7 @@
                 "open_issues": 76,
                 "owner": "papersgpt",
                 "repo": "papersgpt-for-zotero",
-                "stars": 2665,
+                "stars": 2666,
                 "topics": [
                   "ai",
                   "chat",
@@ -1488,11 +1488,11 @@
                 "id": 1269112987,
                 "language": "TypeScript",
                 "license": "AGPL-3.0",
-                "last_commit": "2026-10-11T10:00:08Z",
-                "open_issues": 13,
+                "last_commit": "2026-10-12T10:58:43Z",
+                "open_issues": 4,
                 "owner": "jorgepb96",
                 "repo": "nodus",
-                "stars": 280,
+                "stars": 281,
                 "topics": [
                   "academic-research",
                   "academic-tools",
@@ -1530,11 +1530,11 @@
                 "id": 930580864,
                 "language": "TypeScript",
                 "license": "AGPL-3.0",
-                "last_commit": "2026-10-11T02:14:22Z",
+                "last_commit": "2026-10-12T12:12:54Z",
                 "open_issues": 44,
                 "owner": "jlegewie",
                 "repo": "beaver-zotero",
-                "stars": 266,
+                "stars": 267,
                 "topics": []
               },
               "first_seen": "2026-08-28T16:44:29.486Z"
@@ -1633,7 +1633,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-10-11T10:54:48.671Z",
+    "last_updated": "2026-10-12T12:13:36.844Z",
     "original_repository_info": {
       "archived": false,
       "description": "A curated list of awesome Zotero resources",
@@ -1645,7 +1645,7 @@
       "open_issues": 2,
       "owner": "MohamedElashri",
       "repo": "awesome-zotero",
-      "stars": 541,
+      "stars": 542,
       "topics": [
         "awesome",
         "awesome-list",
