@@ -17,11 +17,11 @@
                 "id": 272731386,
                 "language": "TypeScript",
                 "license": "AGPL-3.0",
-                "last_commit": "2026-11-07T08:00:48Z",
-                "open_issues": 40,
+                "last_commit": "2026-11-07T14:53:03Z",
+                "open_issues": 41,
                 "owner": "l0o0",
                 "repo": "jasminum",
-                "stars": 7359,
+                "stars": 7363,
                 "topics": [
                   "cnki",
                   "plugin",
@@ -43,11 +43,11 @@
                 "id": 12968763,
                 "language": "TypeScript",
                 "license": "MIT",
-                "last_commit": "2026-11-04T23:40:29Z",
-                "open_issues": 45,
+                "last_commit": "2026-11-08T10:44:26Z",
+                "open_issues": 44,
                 "owner": "retorquere",
                 "repo": "zotero-better-bibtex",
-                "stars": 7283,
+                "stars": 7286,
                 "topics": [
                   "bib",
                   "biblatex",
@@ -75,37 +75,11 @@
                 "open_issues": 67,
                 "owner": "MuiseDestiny",
                 "repo": "zotero-citation",
-                "stars": 1287,
+                "stars": 1288,
                 "topics": [
                   "word",
                   "zotero",
                   "zotero-addon",
-                  "zotero-plugin"
-                ]
-              },
-              "first_seen": "2026-08-28T16:44:29.486Z"
-            },
-            {
-              "node_type": "item",
-              "title": "Zotero-citationcounts",
-              "description": "- Zotero plugin for auto-fetching citation counts from various sources.",
-              "children": [],
-              "repo_info": {
-                "archived": false,
-                "description": "Zotero plugin for auto-fetching citation counts from various sources",
-                "homepage": null,
-                "id": 299464129,
-                "language": "JavaScript",
-                "license": "MPL-2.0",
-                "last_commit": "2023-11-09T17:49:37Z",
-                "open_issues": 29,
-                "owner": "eschnett",
-                "repo": "zotero-citationcounts",
-                "stars": 930,
-                "topics": [
-                  "citations",
-                  "plugin",
-                  "zotero",
                   "zotero-plugin"
                 ]
               },
@@ -202,32 +176,6 @@
             },
             {
               "node_type": "item",
-              "title": "Zotero TL;DR",
-              "description": "- Zotero addon to automatically fetch TL;DR from Semantic Scholar for items.",
-              "children": [],
-              "repo_info": {
-                "archived": true,
-                "description": "Zotero addon to automatically fetch TL;DR from Sematic scholar for items.",
-                "homepage": null,
-                "id": 679077498,
-                "language": "TypeScript",
-                "license": "AGPL-3.0",
-                "last_commit": "2024-07-25T08:53:31Z",
-                "open_issues": 8,
-                "owner": "syt2",
-                "repo": "Zotero-TLDR",
-                "stars": 61,
-                "topics": [
-                  "zotero",
-                  "zotero-addon",
-                  "zotero-plugin",
-                  "zotero7"
-                ]
-              },
-              "first_seen": "2026-08-28T16:44:29.486Z"
-            },
-            {
-              "node_type": "item",
               "title": "Zotero Metadata Hunter",
               "description": "- Finds missing DOIs and abstracts, replaces preprints with their published versions, and enriches sparse items with metadata from CrossRef, DBLP, Semantic Scholar, arXiv, PubMed, and OpenAlex.",
               "children": [],
@@ -263,7 +211,7 @@
                 "id": 1083252613,
                 "language": "TypeScript",
                 "license": "AGPL-3.0",
-                "last_commit": "2026-10-13T11:32:36Z",
+                "last_commit": "2026-11-07T23:25:33Z",
                 "open_issues": 10,
                 "owner": "boan-anbo",
                 "repo": "cite-non-english",
@@ -295,7 +243,7 @@
                 "open_issues": 6,
                 "owner": "MuiseDestiny",
                 "repo": "zotero-style",
-                "stars": 5349,
+                "stars": 5350,
                 "topics": [
                   "addon",
                   "color",
@@ -321,11 +269,11 @@
                 "id": 320139914,
                 "language": "TypeScript",
                 "license": "AGPL-3.0",
-                "last_commit": "2026-10-10T19:44:20Z",
+                "last_commit": "2026-11-08T03:55:00Z",
                 "open_issues": 0,
                 "owner": "windingwind",
                 "repo": "zotero-actions-tags",
-                "stars": 2870,
+                "stars": 2871,
                 "topics": [
                   "actions",
                   "addon",
@@ -382,33 +330,6 @@
                 "repo": "Zutilo",
                 "stars": 1890,
                 "topics": []
-              },
-              "first_seen": "2026-08-28T16:44:29.486Z"
-            },
-            {
-              "node_type": "item",
-              "title": "Zotero-pdf-preview",
-              "description": "- Preview Zotero attachments in the library view.",
-              "children": [],
-              "repo_info": {
-                "archived": true,
-                "description": "Preview Zotero attachments in the library view.",
-                "homepage": null,
-                "id": 513569458,
-                "language": "TypeScript",
-                "license": "GPL-3.0",
-                "last_commit": "2024-01-25T06:38:25Z",
-                "open_issues": 0,
-                "owner": "windingwind",
-                "repo": "zotero-pdf-preview",
-                "stars": 1249,
-                "topics": [
-                  "pdf",
-                  "preview",
-                  "zotero",
-                  "zotero-plugin",
-                  "zotero7"
-                ]
               },
               "first_seen": "2026-08-28T16:44:29.486Z"
             },
@@ -614,27 +535,6 @@
           "children": [
             {
               "node_type": "item",
-              "title": "Zotfile",
-              "description": "- Zotero plugin to automatically rename, move, and attach PDFs (or other files) to Zotero items.",
-              "children": [],
-              "repo_info": {
-                "archived": false,
-                "description": "Zotero plugin to manage your attachments: automatically rename, move, and attach PDFs (or other files) to Zotero items, sync PDFs from your Zotero library to your (mobile) PDF reader (e.g. an iPad, Android tablet, etc.), and extract PDF annotations.",
-                "homepage": null,
-                "id": 3074850,
-                "language": "Java",
-                "license": null,
-                "last_commit": "2024-04-16T14:14:46Z",
-                "open_issues": 300,
-                "owner": "jlegewie",
-                "repo": "zotfile",
-                "stars": 4377,
-                "topics": []
-              },
-              "first_seen": "2026-08-28T16:44:29.486Z"
-            },
-            {
-              "node_type": "item",
               "title": "Zotmoov",
               "description": "- Zotero plugin to automatically move attachments and link them.",
               "children": [],
@@ -649,7 +549,7 @@
                 "open_issues": 42,
                 "owner": "wileyyugioh",
                 "repo": "zotmoov",
-                "stars": 1588,
+                "stars": 1589,
                 "topics": [
                   "zotero",
                   "zotero-plugin"
@@ -673,7 +573,7 @@
                 "open_issues": 164,
                 "owner": "MuiseDestiny",
                 "repo": "zotero-attanger",
-                "stars": 1393,
+                "stars": 1395,
                 "topics": []
               },
               "first_seen": "2026-08-28T16:44:29.486Z"
@@ -694,7 +594,7 @@
                 "open_issues": 57,
                 "owner": "ChenglongMa",
                 "repo": "zoplicate",
-                "stars": 1027,
+                "stars": 1029,
                 "topics": [
                   "duplicate-detection",
                   "zotero",
@@ -704,27 +604,6 @@
                   "zotero7",
                   "zotero8"
                 ]
-              },
-              "first_seen": "2026-08-28T16:44:29.486Z"
-            },
-            {
-              "node_type": "item",
-              "title": "Zotero-storage-scanner",
-              "description": "- Zotero plugin to remove the broken & duplicate attachment links of the bibliography.",
-              "children": [],
-              "repo_info": {
-                "archived": true,
-                "description": "A Zotero plugin to remove the broken & duplicate attachment link of the bibliography",
-                "homepage": null,
-                "id": 13282077,
-                "language": "TypeScript",
-                "license": null,
-                "last_commit": "2024-12-06T08:20:37Z",
-                "open_issues": 5,
-                "owner": "retorquere",
-                "repo": "zotero-storage-scanner",
-                "stars": 548,
-                "topics": []
               },
               "first_seen": "2026-08-28T16:44:29.486Z"
             },
@@ -744,7 +623,7 @@
                 "open_issues": 6,
                 "owner": "retorquere",
                 "repo": "zotero-open-pdf",
-                "stars": 268,
+                "stars": 269,
                 "topics": []
               },
               "first_seen": "2026-08-28T16:44:29.486Z"
@@ -761,7 +640,7 @@
                 "id": 1150773648,
                 "language": "JavaScript",
                 "license": "GPL-3.0",
-                "last_commit": "2026-11-07T10:16:23Z",
+                "last_commit": "2026-11-08T10:27:06Z",
                 "open_issues": 11,
                 "owner": "josesiqueira",
                 "repo": "zotero-watch-folder",
@@ -807,7 +686,7 @@
                 "open_issues": 75,
                 "owner": "dvanoni",
                 "repo": "notero",
-                "stars": 3259,
+                "stars": 3260,
                 "topics": [
                   "notion",
                   "notion-database",
@@ -831,11 +710,11 @@
                 "id": 455983032,
                 "language": "TypeScript",
                 "license": "AGPL-3.0",
-                "last_commit": "2026-11-07T09:54:25Z",
-                "open_issues": 25,
+                "last_commit": "2026-11-08T11:11:31Z",
+                "open_issues": 29,
                 "owner": "aidenlx",
                 "repo": "zotlit",
-                "stars": 1063,
+                "stars": 1062,
                 "topics": [
                   "academic",
                   "obsidian-md",
@@ -843,27 +722,6 @@
                   "zotero",
                   "zotero-plugin"
                 ]
-              },
-              "first_seen": "2026-08-28T16:44:29.486Z"
-            },
-            {
-              "node_type": "item",
-              "title": "lyz",
-              "description": "- Zotero plugin intended to make working with LyX/Zotero more pleasant.",
-              "children": [],
-              "repo_info": {
-                "archived": false,
-                "description": "LyZ is a plugin for Zotero, which is intended to make working with LyX/Zotero more pleasant.",
-                "homepage": null,
-                "id": 7750882,
-                "language": "JavaScript",
-                "license": "GPL-3.0",
-                "last_commit": "2021-09-06T20:20:47Z",
-                "open_issues": 10,
-                "owner": "wshanks",
-                "repo": "lyz",
-                "stars": 116,
-                "topics": []
               },
               "first_seen": "2026-08-28T16:44:29.486Z"
             }
@@ -890,7 +748,7 @@
                 "open_issues": 13,
                 "owner": "syt2",
                 "repo": "zotero-addons",
-                "stars": 1839,
+                "stars": 1843,
                 "topics": [
                   "zotero",
                   "zotero-addon",
@@ -916,7 +774,7 @@
                 "open_issues": 2,
                 "owner": "AllanChain",
                 "repo": "zotero-arxiv-workflow",
-                "stars": 397,
+                "stars": 398,
                 "topics": [
                   "arxiv",
                   "zotero",
@@ -944,11 +802,11 @@
                 "id": 486255787,
                 "language": "TypeScript",
                 "license": "AGPL-3.0",
-                "last_commit": "2026-08-24T13:21:23Z",
+                "last_commit": "2026-11-08T03:50:32Z",
                 "open_issues": 17,
                 "owner": "windingwind",
                 "repo": "zotero-better-notes",
-                "stars": 8423,
+                "stars": 8431,
                 "topics": [
                   "addon",
                   "knowledge",
@@ -1060,7 +918,7 @@
                 "open_issues": 13,
                 "owner": "Dominic-DallOsto",
                 "repo": "zotero-reading-list",
-                "stars": 594,
+                "stars": 595,
                 "topics": [
                   "reading-list",
                   "todo",
@@ -1187,11 +1045,11 @@
                 "id": 1122302429,
                 "language": "TypeScript",
                 "license": "AGPL-3.0",
-                "last_commit": "2026-11-07T04:03:52Z",
+                "last_commit": "2026-11-08T03:49:35Z",
                 "open_issues": 21,
                 "owner": "janbaykara",
                 "repo": "zotero-syllabus",
-                "stars": 68,
+                "stars": 69,
                 "topics": [
                   "academia",
                   "college",
@@ -1206,30 +1064,6 @@
                 ]
               },
               "first_seen": "2026-10-23T09:26:14.475Z"
-            },
-            {
-              "node_type": "item",
-              "title": "cmp-zotcite",
-              "description": "- Zotero completion source for nvim-cmp using zotcite as backend.",
-              "children": [],
-              "repo_info": {
-                "archived": true,
-                "description": "Zotero completion source for nvim-cmp using zotcite as backend.",
-                "homepage": null,
-                "id": 570628228,
-                "language": "Lua",
-                "license": "GPL-3.0",
-                "last_commit": "2025-10-23T14:26:50Z",
-                "open_issues": 0,
-                "owner": "jalvesaq",
-                "repo": "cmp-zotcite",
-                "stars": 25,
-                "topics": [
-                  "nvim-cmp",
-                  "zotero"
-                ]
-              },
-              "first_seen": "2026-08-28T16:44:29.486Z"
             },
             {
               "node_type": "item",
@@ -1283,11 +1117,11 @@
                 "id": 467844167,
                 "language": "TypeScript",
                 "license": "AGPL-3.0",
-                "last_commit": "2026-10-03T11:50:09Z",
-                "open_issues": 33,
+                "last_commit": "2026-11-08T03:46:30Z",
+                "open_issues": 31,
                 "owner": "windingwind",
                 "repo": "zotero-pdf-translate",
-                "stars": 12238,
+                "stars": 12247,
                 "topics": [
                   "pdf",
                   "plugin",
@@ -1348,7 +1182,7 @@
                 "open_issues": 64,
                 "owner": "TideDra",
                 "repo": "zotero-arxiv-daily",
-                "stars": 6131,
+                "stars": 6134,
                 "topics": [
                   "arxiv",
                   "automation",
@@ -1375,10 +1209,10 @@
                 "language": "Python",
                 "license": "MIT",
                 "last_commit": "2026-11-06T17:28:47Z",
-                "open_issues": 85,
+                "open_issues": 94,
                 "owner": "54yyyu",
                 "repo": "zotero-mcp",
-                "stars": 5782,
+                "stars": 5805,
                 "topics": [
                   "ai-agent",
                   "chatgpt",
@@ -1411,7 +1245,7 @@
                 "open_issues": 77,
                 "owner": "papersgpt",
                 "repo": "papersgpt-for-zotero",
-                "stars": 2698,
+                "stars": 2701,
                 "topics": [
                   "ai",
                   "chat",
@@ -1491,11 +1325,11 @@
                 "id": 930580864,
                 "language": "TypeScript",
                 "license": "AGPL-3.0",
-                "last_commit": "2026-11-07T02:38:17Z",
-                "open_issues": 43,
+                "last_commit": "2026-11-08T01:47:02Z",
+                "open_issues": 44,
                 "owner": "jlegewie",
                 "repo": "beaver-zotero",
-                "stars": 276,
+                "stars": 277,
                 "topics": []
               },
               "first_seen": "2026-08-28T16:44:29.486Z"
@@ -1594,7 +1428,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-11-07T11:11:41.179Z",
+    "last_updated": "2026-11-08T11:23:28.932Z",
     "original_repository_info": {
       "archived": false,
       "description": "A curated list of awesome Zotero resources",
@@ -1602,11 +1436,11 @@
       "id": 724657964,
       "language": "Python",
       "license": "CC0-1.0",
-      "last_commit": "2026-11-07T02:54:36Z",
-      "open_issues": 9,
+      "last_commit": "2026-11-07T21:06:06Z",
+      "open_issues": 0,
       "owner": "MohamedElashri",
       "repo": "awesome-zotero",
-      "stars": 563,
+      "stars": 564,
       "topics": [
         "awesome",
         "awesome-list",
@@ -1615,7 +1449,7 @@
         "zotero-plugin"
       ]
     },
-    "original_repository_sha": "d16241d9adbbc483e6d4d17b7dd3a9b3e38733d5",
+    "original_repository_sha": "fc9bf7272c15a825b558ec61fa806ec36a86bf9e",
     "enhanced_repository": "enhansome/enhansome-zotero",
     "enhanced_repository_description": null,
     "title": "Awesome Zotero with stars"
